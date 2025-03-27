@@ -18,7 +18,7 @@ This project focuses on leveraging Tableau for in-depth exploration of house sal
 
 ## Getting Started
 To explore the project:
-1. Clone the repository: `git clone https://github.com/nakkasaikiran/Visualizing-Housing-Market-Trends-An-Analysis-of-Sale-Prices-and-Features-using-Tableau
+1. Clone the repository: `git clone https://github.com/Sumanth572/Visualizing-Housing-Market-Trends-An-Analysis-of-Sale-Prices-and-Features-using-Tableau
 2.  Access the `/housesale` directory to view Tableau workbooks.
 
 ## Contributions and Feedback
@@ -29,4 +29,4 @@ For any inquiries or collaborations related to this project, please reach out vi
 
 ---
 
-Adjust the placeholders like `saikirannakka03@gmail.com`, `https://www.linkedin.com/in/saikiran-nakka-446461229`, with the appropriate links or information. This README provides an overview, guidance on accessing the project, and encourages collaboration or feedback.
+Adjust the placeholders like `kadiyamsumanth047@gmail.com`, `https://www.linkedin.com/in/sumanth-kadiyam-6b42a5252`, with the appropriate links or information. This README provides an overview, guidance on accessing the project, and encourages collaboration or feedback.
